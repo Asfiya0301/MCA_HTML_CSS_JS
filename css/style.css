@@ -1,0 +1,23 @@
+h1{
+    color: red;
+}
+nav{
+    background-color: black;
+    text-align: center;
+}
+nav a{
+    color:white;
+    margin: 2%;
+
+}
+.container{
+    background-color: aqua;
+
+}
+.div1{
+    background-color: rgb(244, 217, 217);
+
+}
+button{
+    background-color: green;
+}

@@ -1,0 +1,72 @@
+
+header{
+    background-color: rgb(90, 20, 156);
+    color: aliceblue;
+    text-align: center;
+    padding: 30px;
+    text-shadow: 2px 2px 5px gray;
+}
+nav{
+    background-color: rgb(211, 183, 237);
+    text-align: center;
+    padding: 10px;
+}
+nav a{
+    color: rgb(97, 73, 41);
+    margin: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+nav a:hover{
+    color:rgb(201, 132, 28);
+    background-color: rgb(80, 72, 180);
+    font-weight: 900;
+    border: 2px black double;
+    padding: 5px;
+}
+section{
+    margin: 20px;
+    padding: 30px;
+
+}
+.box{
+    background-color: rgb(194, 227, 227);
+    justify-content:space-around;
+    padding: 20px;
+    border-radius: 045px;
+}
+.pen{
+    display: flex;
+    justify-content:space-around;
+    border: 2px black solid;
+    
+}
+.pen div{
+    padding: 10px;
+    border: 2px black dashed ;
+    text-align: center;
+    justify-content:space-around;
+    margin: 5px;
+    background-color: rgb(151, 219, 197);
+}
+footer{
+    background-color: rgb(163, 107, 215);
+    color: aliceblue;
+    text-align: center;
+    padding: 30px;
+    text-shadow: 2px 2px 5px gray;
+}
+.forms{
+    background-color: rgb(238, 208, 171);
+    margin: auto;
+    padding: 20px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+button{
+    background-color: rgb(163, 227, 163);
+}
